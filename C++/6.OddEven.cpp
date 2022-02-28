@@ -1,3 +1,4 @@
+//Wirte Programme to that Checks entered number is odd or even.
 #include<iostream>
 using namespace std;
 
