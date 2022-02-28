@@ -1,3 +1,4 @@
+//Wirte Programme to that reads variabels with diffrent data types and display their value.
 #include<iostream>
 using namespace std;
 
