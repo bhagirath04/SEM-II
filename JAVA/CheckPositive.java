@@ -1,3 +1,4 @@
+//Wirte Programme to that Checks entered number is positive or nagative. 
 import java.util.*;
 public class CheckPositive
 {

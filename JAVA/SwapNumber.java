@@ -1,3 +1,4 @@
+// Swape three numbers with help of third number.
 import java.util.*;
 public class SwapNumber
 {

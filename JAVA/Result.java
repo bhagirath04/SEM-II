@@ -1,3 +1,4 @@
+// write a programme for exam result.
 import java.util.*;
 public class Result
 {

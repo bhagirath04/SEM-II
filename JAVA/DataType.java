@@ -1,3 +1,4 @@
+//Wirte Programme to that reads variabels with diffrent data types and display their value.
 import java.util.*;
 public class DataType
 {
