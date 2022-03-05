@@ -11,7 +11,7 @@ int main()
     //logic
     vol=a*a*a;
 
-    cout<<"\n"
+    cout<<"\n";
     //result
     cout<<"Volume of Cube of Length"<<a<<":"<<vol;
 
